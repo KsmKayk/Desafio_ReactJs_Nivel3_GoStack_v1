@@ -37,6 +37,7 @@
         "allowExpressions": true
       }
     ],
+    "@typescript-eslint/no-unused-expressions" : {"allowShortCircuit": true, "allowTernary": true, "allowTaggedTemplates": true, "enforceForJSX": true},
     "import/extensions": [
       "error",
       "ignorePackages",
